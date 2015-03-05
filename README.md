@@ -1,2 +1,5 @@
 # EducationalLecturePlanYear
-Planing lectures within year app
+============================
+Planing lectures within a year. Application is designet to teachers. Epam.
+etc.
+
